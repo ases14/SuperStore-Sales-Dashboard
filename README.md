@@ -12,12 +12,7 @@ The objective of this project is to design an interactive SuperStore Sales Dashb
 
 ## Features
 
-![Screenshot 2024-11-30 014230](https://github.com/user-attachments/assets/697a32a6-79f5-498b-ab54-dcb06b54ab54)
-![Screenshot 2024-11-30 014258](https://github.com/user-attachments/assets/3048a679-9eeb-4797-815a-11322d578511)
-![Screenshot 2024-11-30 014339](https://github.com/user-attachments/assets/0f1b7421-a0be-44a9-ab27-d45e65241200)
 ![Screenshot 2024-11-30 012746](https://github.com/user-attachments/assets/b6c40628-e311-46dd-9b3b-8bc59c0b93ca)
-![Screenshot 2024-11-30 014035](https://github.com/user-attachments/assets/a4ce9b40-eebe-4976-b706-6fdd13aa2a22)
-![Screenshot 2024-11-30 014208](https://github.com/user-attachments/assets/d00d5fcb-9373-4667-b1f0-ccf56eb48bc4)
 
 ### Key Performance Indicators (KPIs):
 - Total Orders
@@ -25,13 +20,22 @@ The objective of this project is to design an interactive SuperStore Sales Dashb
 - Total Profit
 - Average Shipping Days
 
+![Screenshot 2024-11-30 014035](https://github.com/user-attachments/assets/a4ce9b40-eebe-4976-b706-6fdd13aa2a22)
+
 ### Sales Analysis:
 - Sales distribution by payment mode (COD, Cards, Online).
+
+![Screenshot 2024-11-30 014208](https://github.com/user-attachments/assets/d00d5fcb-9373-4667-b1f0-ccf56eb48bc4)
+
 - Sales trends by month.
+
+![Screenshot 2024-11-30 014230](https://github.com/user-attachments/assets/697a32a6-79f5-498b-ab54-dcb06b54ab54)
 
 ### Regional Insights:
 - Sales performance by region (Central, East, South, West).
 - Interactive map showing profit and sales by state.
+
+![Screenshot 2024-11-30 014258](https://github.com/user-attachments/assets/3048a679-9eeb-4797-815a-11322d578511)
 
 ### Customer Segments:
 - Sales breakdown by customer segment (Home Office, Consumer, Corporate).
@@ -39,6 +43,8 @@ The objective of this project is to design an interactive SuperStore Sales Dashb
 ### Shipping and Sub-Category Analysis:
 - Sales by ship mode (Standard, Second Class, etc.).
 - Top-performing product sub-categories.
+
+![Screenshot 2024-11-30 014339](https://github.com/user-attachments/assets/0f1b7421-a0be-44a9-ab27-d45e65241200)
 
 ### Profit Trends:
 - Profit trends visualized monthly to identify seasonal patterns.
